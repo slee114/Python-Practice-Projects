@@ -1,7 +1,7 @@
 import smtplib
 
 import requests
-OWM_Endpoint = "https://api.openweathermap.org/data/2.5/onecall"
+OWM_Endpoint = "api endpoint for openweathermap.org"
 api_key = "your api key from openweathermap.org"
 
 parameters = {
